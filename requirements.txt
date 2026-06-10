@@ -1,10 +1,11 @@
 streamlit
 langchain
-langchain-groq
-langchain-openai
 langchain-community
-chromadb
-langsmith
-pypdf
 langchain-ollama
 langchain-chroma
+langchain-groq
+langchain-openai
+chromadb==0.5.23
+langsmith
+pypdf
+protobuf==5.29.5
